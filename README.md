@@ -9,4 +9,4 @@
 | *One* | *Two* | *Three* |
 | ------- | :--------: | ---: |
 | **Hello** | It's | a table |
-| ~~Here is~~   | ~~Strikeout~~ | ~~Text~~ |
+| ~~Here is~~ | ~~Strikeout~~ | ~~Text~~ |
