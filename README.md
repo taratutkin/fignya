@@ -8,5 +8,5 @@
 
 | *One* | *Two* | *Three* |
 | ------- | :--------: | ---: |
-| **Hello**   | It's          | a table  |
-| ~~Here is~~   | ~~Strikeout~~         | ~~Text~~  |
+| **Hello** | It's | a table |
+| ~~Here is~~   | ~~Strikeout~~ | ~~Text~~  |
